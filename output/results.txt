@@ -1,0 +1,22 @@
+Query: What is Crosswalk guards?
+Answer: Based on the context provided, crosswalk guards direct the movement of children along or across highways while they are going to or from school. They signal drivers to stop by holding up a stop sign (paddle) facing the vehicle. 
+
+Drivers are required to obey crossing guards appointed and employed for this purpose, and failure to do so could result in demerit points on a driving record.
+Source: data\DH-Chapter2.pdf (Page 5)
+--------------------
+Query: What to do if moving through an intersection with a green signal?
+Answer: Based on the provided text, when facing a green signal:
+
+*   **If there is a green arrow:** You can turn in the direction of the arrow and proceed through the intersection.
+*   **For through traffic:** If both a green signal light and a green arrow are present, through traffic is controlled by the green signal lights (though the text does not explicitly define the specific action for the green light, it notes that it controls the through traffic).
+Source: data\DH-Chapter2.pdf (Page 3)
+--------------------
+Query: What to do when approached by an emergency vehicle?
+Answer: When approached by an emergency vehicle (such as a police car, ambulance, or fire department vehicle with flashing lights and sirens) from ahead or behind, you should:
+
+*   **Move to the right:** Pull over to the right edge or curb of the road.
+*   **Stop completely:** Once pulled over, come to a full stop.
+*   **Stay stopped:** Remain stopped until the emergency vehicle has passed or until a peace officer directs you to move.
+*   **Maintain distance:** Never follow an emergency fire vehicle within 150 metres, and do not drive or park within 150 metres of an emergency vehicle that has stopped to investigate a collision or provide assistance.
+Source: data\DH-Chapter2.pdf (Page 8)
+--------------------
